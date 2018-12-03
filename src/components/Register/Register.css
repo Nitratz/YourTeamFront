@@ -1,0 +1,23 @@
+.RegisterContentBody {
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.RegisterButton {
+    width: 200px !important;
+    margin-top: 20px !important;
+}
+
+.RegisterTextField {
+    color: white !important;
+    width: 300px !important;
+}
+
+.RegisterInputLabel {
+    color: #14b7ff !important;
+}
