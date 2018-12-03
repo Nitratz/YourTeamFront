@@ -6,9 +6,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # misc
 .DS_Store
 .env.local
@@ -24,3 +21,8 @@ yarn-error.log*
 #VSCode history
 .history/
 package-lock\.json
+
+src/*
+public/*
+build/static/css/*.map
+build/static/js/*.map
